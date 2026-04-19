@@ -1,0 +1,1 @@
+A skill to master to create beautiful websites and learn the beauty and the complexity of connecting the backend to the frontend and make sure the div stays at the same place when someone scrolls down the website.
